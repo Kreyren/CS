@@ -1,3 +1,5 @@
+DISCLAIMER: Made by an inexperienced CS student, made for education purpose only without a peer-review
+
 <h1 align="center">
   Computer Science
 </h1>
